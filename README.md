@@ -1,7 +1,7 @@
-##HR Data Analytics Dashboard
+#HR Data Analytics Dashboard
 A dynamic, interactive data visualization tool built to explore detailed HR metrics—including employee demographics, department-level analytics, attrition trends, job satisfaction, and workforce KPIs—to support strategic decision-making for human resources teams.
 
-🎯 Purpose
+##Purpose
 The HR Analytics Dashboard is a visually engaging Power BI report designed to provide HR professionals and stakeholders with actionable insights on workforce composition, attrition rates, employee satisfaction, and department performance. This tool helps organizations optimize talent management, reduce attrition, and improve employee engagement by highlighting critical trends and patterns in HR data.
 
 🛠️ Tech Stack
