@@ -120,6 +120,4 @@ Provide a **consolidated**, **easy-to-navigate** dashboard for exploring **HR KP
 
 ![HR Analytics Dashboard Preview](https://github.com/SnehaAgar/HR-Data-Analytics-Dashboard/blob/main/HR_ANALYTICS.png)
 
----
 
-> **Note:** Data used in this dashboard represents typical HR attributes and structures for analytics. Replace or connect to your organization’s secure datasets as required.
